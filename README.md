@@ -1,7 +1,7 @@
 awsmap
 ======
 
-    I've always wanted a world map on my screen. It makes me feel kinda important in an evil villainous way :)
+    I've always wanted a world map on my dashboard. Like an evil villain :)
 
 A Dashing widget that shows a world map with AWS EC2 statuses. It uses [jVectorMap](http://jvectormap.com) to show the map.
 
