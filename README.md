@@ -5,6 +5,8 @@ awsmap
 
 A Dashing widget that shows a world map with AWS EC2 statuses. It uses [jVectorMap](http://jvectormap.com) to show the map.
 
+[Screenshot](screenshot.png?raw=true)
+
 ## Installation
 
 Install the gem
