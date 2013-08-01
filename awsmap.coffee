@@ -26,4 +26,5 @@ class Dashing.Awsmap extends Dashing.Widget
       map = @mapElement.vectorMap('get', 'mapObject')
       down_sites = "[#{data.down_sites}]"
       down_sites = JSON.parse(down_sites)
+      map.clearSelectedMarkers()
       map.setSelectedMarkers(down_sites)
